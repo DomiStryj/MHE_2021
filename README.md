@@ -8,5 +8,7 @@ Polega on na tym, żeby znaleźć ścieżkę zamkniętą, zawierającą każdą 
 
 Zadanie zostanie wykonane w języku Python.
 
+Dane wejściowe: graf nieeulerowski.
+Dane wyjściowe: najkrótsza droga poprzez wszystkie odciniki.
 
 
